@@ -1,0 +1,7 @@
+# this is comment line
+{
+	# comment 
+	"SQLALCHEMY_URI": "sqlite:///",
+	"HELLO": "ARE_YOU_OK",
+    "test": "123456"
+}
